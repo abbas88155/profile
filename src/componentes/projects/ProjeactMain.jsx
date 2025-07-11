@@ -6,13 +6,13 @@ const projects = [
     name: 'Store',
     year: '2024',
     link: '#',
-    img: '/images/website-img-1.jpg',
+    img: '/profile/images/website-img-1.jpg',
   },
   {
     name: 'Movies App',
     year: '2025',
     link: '#',
-    img: '/images/website-img-3.jpg',
+    img: '/profile/images/website-img-3.jpg',
   },
   {
     name: 'Image Gallery',
@@ -24,7 +24,7 @@ const projects = [
     name: 'Portfolio',
     year: '2025',
     link: '#',
-    img: '/images/website-img-4.jpg',
+    img: '/profile/images/website-img-4.jpg',
   },
 ]
 
