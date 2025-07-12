@@ -18,7 +18,7 @@ const projects = [
     name: 'Image Gallery',
     year: '2025',
     link: '#',
-    img: '/images/website-img-2.webp',
+    img: '/profile/images/website-img-2.webp',
   },
   {
     name: 'Portfolio',

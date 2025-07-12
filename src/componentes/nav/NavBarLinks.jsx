@@ -5,7 +5,7 @@ function NavBarLinks({ closeMenu }) {
   const links = [
     { link: 'Über mich', section: 'about' },
     { link: 'Fähigkeiten', section: 'skills' },
-    { link: 'Erfahrung', section: 'experience' },
+    { link: 'Erfahrung', section: 'expereins' },
     { link: 'Projekte', section: 'projects' },
     { link: 'Kontakt', section: 'contact' },
   ]
